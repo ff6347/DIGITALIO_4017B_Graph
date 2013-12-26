@@ -7,10 +7,12 @@ written by Fabian Morón Zirfas
 ##based on work by
 ##[Leonel Machava](http://codentronix.com/2011/06/05/arduino-led-bar-graph-driven-by-a-4017-counter/)  
 ##[DojoDave & Tom Igoe](http://arduino.cc/en/Tutorial/Button)
-###[CD4017B Datasheet](http://www.ti.com/lit/ds/symlink/cd4017b.pdf)  
-  
 
+![fritzing-layout](fritzing-layout.png)  
+![4017-pinlayout](4017-pinlayout.png)  
+![4017-functional-diagram](4017-functional-diagram.png)  
 
+-[CD4017B Datasheet](http://www.ti.com/lit/ds/symlink/cd4017b.pdf)  
 __Pin Functions CD4017B__  
 
 - PIN 16 - V DC
